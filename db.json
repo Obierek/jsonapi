@@ -1,0 +1,303 @@
+{
+  "questions": [
+    {
+      "questionText": "W zananym powiedzeniu jedna wiosny nie czyni.",
+      "level": "easy",
+      "answerOptions": [
+        {
+          "answerText": "Przepiórka",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Jaskółka",
+          "isCorrect": true
+        },
+
+        {
+          "answerText": "Sokółka",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionText": "Z ilu zawodników składa się drużyna piłki nożnej?",
+      "level": "easy",
+      "answerOptions": [
+        {
+          "answerText": "10",
+          "isCorrect": false
+        },
+        {
+          "answerText": "11",
+          "isCorrect": true
+        },
+        {
+          "answerText": "6",
+          "isCorrect": false
+        },
+        {
+          "answerText": "22",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionText": "Co kolekcjonuje filatelista?",
+      "level": "easy",
+      "answerOptions": [
+        {
+          "answerText": "Znaczki pocztowe",
+          "isCorrect": true
+        },
+        {
+          "answerText": "Monety",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Karty do gry",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionText": "Kim był Mikołaj Kopernik?",
+      "level": "easy",
+      "answerOptions": [
+        {
+          "answerText": "Chemikiem",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Gastrologiem",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Astrologiem",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Astronomem",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionText": "Najmniejszym ptakiem na świecie jest??",
+      "level": "easy",
+      "answerOptions": [
+        {
+          "answerText": "Wróbel",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Jaskółka",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Mysikrólik",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Koliber",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionText": "Wynalazcą dynamitu był:",
+      "level": "medium",
+      "answerOptions": [
+        {
+          "answerText": "Albert Einstein",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Isaak Newton",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Alfred Nobel",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionText": "Ankara jest stolicą?",
+      "level": "medium",
+      "answerOptions": [
+        {
+          "answerText": "Niemiec",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Francji",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Albanii",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Turcji",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionText": "Najdłuższa rzeka w polsce to:",
+      "level": "medium",
+      "answerOptions": [
+        {
+          "answerText": "Odra",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Wisła",
+          "isCorrect": true
+        },
+        {
+          "answerText": "Soła",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Warta",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionText": "Największym zwierzęciem jest:",
+      "level": "medium",
+      "answerOptions": [
+        {
+          "answerText": "Słoń",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Hipopotam",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Płetwal błękitny",
+          "isCorrect": true
+        },
+        {
+          "answerText": "True",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionText": "Kraj kwitnących wiśni to:",
+      "level": "medium",
+      "answerOptions": [
+        {
+          "answerText": "Japonia",
+          "isCorrect": true
+        },
+        {
+          "answerText": "Włochy",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Chiny",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Hiszpania",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionText": "Pierwszym królem Polski był:",
+      "level": "hard",
+      "answerOptions": [
+        {
+          "answerText": "Jan III Sobieski",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Bolesław Krzywousty",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Bolesław Chrobry",
+          "isCorrect": true
+        },
+        {
+          "answerText": "Mieszko I",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionText": "Na tablicy Mendelejewa symbolem FE oznaczone jest żelazo?",
+      "level": "hard",
+      "answerOptions": [
+        {
+          "answerText": "Tak",
+          "isCorrect": true
+        },
+        {
+          "answerText": "Nie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionText": "Ziemia jest:",
+      "level": "hard",
+      "answerOptions": [
+        {
+          "answerText": "Pierwszą palnetą od słońca",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Drugą palnetą od słońca",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Trzecią palnetą od słońca",
+          "isCorrect": true
+        },
+        {
+          "answerText": "Czwartą palnetą od słońca",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionText": "Na banknocie 20zł widać profil:",
+      "level": "hard",
+      "answerOptions": [
+        {
+          "answerText": "Bolesława I Chrobrego",
+          "isCorrect": true
+        },
+        {
+          "answerText": "Królowej Jadwigi",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Jana III Sobieskiego",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionText": "Równik dzieli kulę ziemską na dwie półkule. Które?",
+      "level": "hard",
+      "answerOptions": [
+        {
+          "answerText": "Północną i południową",
+          "isCorrect": true
+        },
+        {
+          "answerText": "Wschodnią i zachodnią",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}
