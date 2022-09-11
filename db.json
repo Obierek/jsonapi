@@ -1,5 +1,4 @@
-{
-  "questions": [
+[
     {
       "questionText": "W zananym powiedzeniu jedna wiosny nie czyni.",
       "level": "easy",
@@ -300,4 +299,3 @@
       ]
     }
   ]
-}
